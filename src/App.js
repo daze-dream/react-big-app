@@ -1,6 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
-import HomePage from './homepage.components'
+import HomePage from './page_components/homepage.components'
 
 
 function App() {
